@@ -6,9 +6,9 @@ Este projeto consiste em um conjunto de funções JavaScript que implementei par
 
 Nesse projeto, fui capaz de desenvolver:
 
-- Escrever testes unitários utilizando o módulo Jest do NodeJS para verificar o correto funcionamento das funções;
-- Escrever funções de forma que elas atendam a testes já implementados;
-- Escrever testes e funções utilizando uma abordagem de desenvolvimento orientado a testes.
+- Testes unitários utilizando o módulo Jest do NodeJS para verificar o correto funcionamento das funções;
+- Funções de forma que elas atendam a testes já implementados;
+- Testes e funções utilizando uma abordagem de desenvolvimento orientado a testes.
 
 ## Como Usar
 
